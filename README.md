@@ -46,6 +46,6 @@ The background and border colors change according to the rarity of the card.
 <img src="https://media.discordapp.net/attachments/993371075389952062/1248134682785353810/card.png?ex=666489c1&is=66633841&hm=8ab415e133b672d83b017146aa25694110438429a1cedf7fd66dd69f8e037980&=&format=webp&quality=lossless&width=537&height=671" height="400" alt="Card Player Example"/>
 
 #### How I get a player image?
-Using python:
+**Using python:**
 ![image](https://github.com/maccuci/nba-bot-public/assets/30989202/ff905d59-5b23-4773-bf00-6c656c1c0804)
 
